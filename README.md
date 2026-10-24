@@ -23,25 +23,25 @@
     <li><a href="#selected-projects">Selected projects</a></li>
     <li><a href="#tech-stack">Tech stack</a></li>
     <li><a href="#experience">Experience</a></li>
-    <li><a href="#research--interests">Research &amp; interests</a></li>
+    <li><a href="#research-and-interests">Research &amp; interests</a></li>
     <li><a href="#connect">Connect</a></li>
   </ol>
 </details>
 
+## About
+
 <details>
   <summary><strong>About</strong> · Building tools that keep their human context</summary>
-
-  <a id="about"></a>
 
   I work across applied AI and product engineering: from evidence-aware systems and data workflows to browser-based creative tools. I care about how software earns trust, makes its limits legible, and gives people more room to think and make.
 
   My projects tend to begin with a question bigger than the interface: How should a model show its sources? What does useful automation leave in a person's hands? Can a creative tool make complexity feel inviting?
 </details>
 
+## Selected projects
+
 <details>
   <summary><strong>Selected projects</strong> · A research record, a job-search tool, a literary atlas, and a music studio</summary>
-
-  <a id="selected-projects"></a>
 
   | Project | What I built | Engineering focus |
   | --- | --- | --- |
@@ -53,10 +53,10 @@
   The project links above point to public repositories. TraceIT is the only featured project with a verified live demo at the time this profile was prepared.
 </details>
 
+## Tech stack
+
 <details>
   <summary><strong>Tech stack</strong> · Technologies used in the featured public projects</summary>
-
-  <a id="tech-stack"></a>
 
   These are tools present in the projects above, not a claim that repository language statistics measure proficiency.
 
@@ -67,28 +67,28 @@
   - **Infrastructure &amp; workflow:** Docker, GitHub Actions
 </details>
 
+## Experience
+
 <details>
   <summary><strong>Experience</strong> · Product thinking through independent builds</summary>
-
-  <a id="experience"></a>
 
   My public work shows independent product development across AI-assisted workflows, environmental data, digital humanities, and creative software. The through-line is turning a complex system into something people can inspect and use without hiding uncertainty or taking away meaningful control.
 
   I have not listed employers, dates, or credentials here because I could not verify them from the public profile information available during this review.
 </details>
 
+## Research and interests
+
 <details>
   <summary><strong>Research &amp; interests</strong> · Literature, evidence, agency, and creative technology</summary>
-
-  <a id="research--interests"></a>
 
   I’m interested in the meeting point of literature and computation: how people find meaning across texts, how data keeps its provenance, and how technology can support interpretation without pretending to replace it. That curiosity also shapes my work on responsible automation, environmental records, and tools for making music.
 </details>
 
+## Connect
+
 <details>
   <summary><strong>Connect</strong> · Conversation and collaboration</summary>
-
-  <a id="connect"></a>
 
   - [LinkedIn](https://www.linkedin.com/in/aariya-mishra/) — professional contact
   - [GitHub](https://github.com/Aariya6) — projects and experiments
