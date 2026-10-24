@@ -19,12 +19,12 @@
   <summary><strong>Navigate this profile</strong></summary>
 
   <ol>
-    <li><a href="#about">About</a></li>
-    <li><a href="#selected-projects">Selected projects</a></li>
-    <li><a href="#tech-stack">Tech stack</a></li>
-    <li><a href="#experience">Experience</a></li>
-    <li><a href="#research-and-interests">Research &amp; interests</a></li>
-    <li><a href="#connect">Connect</a></li>
+    <li><a href="#user-content-about">About</a></li>
+    <li><a href="#user-content-selected-projects">Selected projects</a></li>
+    <li><a href="#user-content-tech-stack">Tech stack</a></li>
+    <li><a href="#user-content-experience">Experience</a></li>
+    <li><a href="#user-content-research-and-interests">Research &amp; interests</a></li>
+    <li><a href="#user-content-connect">Connect</a></li>
   </ol>
 </details>
 
