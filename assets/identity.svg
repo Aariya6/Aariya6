@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Aariya Mishra — Systems, stories, signals</title>
+  <desc id="desc">A restrained editorial identity graphic for an AI engineer and product developer.</desc>
+  <rect width="1000" height="250" fill="#121410"/>
+  <path d="M0 210H1000M35 0V250M965 0V250" fill="none" stroke="#373a30"/>
+  <circle cx="853" cy="118" r="69" fill="none" stroke="#373a30"/>
+  <circle cx="853" cy="118" r="45" fill="none" stroke="#b6a9d9" stroke-width="1.5"/>
+  <circle cx="853" cy="118" r="6" fill="#d4f37a"/>
+  <circle cx="802" cy="88" r="4" fill="#eee9dc"/>
+  <circle cx="896" cy="81" r="4" fill="#d4f37a"/>
+  <circle cx="888" cy="158" r="4" fill="#eee9dc"/>
+  <path d="m802 88 51 30 43-37m-43 37 35 40" fill="none" stroke="#777b6b" stroke-width="1"/>
+  <text x="72" y="72" fill="#d4f37a" font-family="monospace" font-size="12" letter-spacing="3">AI ENGINEERING / PRODUCT DEVELOPMENT</text>
+  <text x="68" y="151" fill="#eee9dc" font-family="Georgia,serif" font-size="64" letter-spacing="-2">Aariya Mishra</text>
+  <text x="72" y="188" fill="#a5a797" font-family="monospace" font-size="14" letter-spacing="2">SYSTEMS · STORIES · SIGNALS</text>
+  <text x="933" y="231" fill="#a5a797" font-family="monospace" font-size="9" text-anchor="end" letter-spacing="2">INDEPENDENT PRODUCT WORK</text>
+</svg>
